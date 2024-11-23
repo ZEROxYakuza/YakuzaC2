@@ -1,0 +1,15 @@
+/home/david/Desktop/YakuzaC2/Agent/bin/Debug/net6.0/Agent
+/home/david/Desktop/YakuzaC2/Agent/bin/Debug/net6.0/Agent.deps.json
+/home/david/Desktop/YakuzaC2/Agent/bin/Debug/net6.0/Agent.runtimeconfig.json
+/home/david/Desktop/YakuzaC2/Agent/bin/Debug/net6.0/Agent.dll
+/home/david/Desktop/YakuzaC2/Agent/bin/Debug/net6.0/Agent.pdb
+/home/david/Desktop/YakuzaC2/Agent/obj/Debug/net6.0/Agent.csproj.AssemblyReference.cache
+/home/david/Desktop/YakuzaC2/Agent/obj/Debug/net6.0/Agent.GeneratedMSBuildEditorConfig.editorconfig
+/home/david/Desktop/YakuzaC2/Agent/obj/Debug/net6.0/Agent.AssemblyInfoInputs.cache
+/home/david/Desktop/YakuzaC2/Agent/obj/Debug/net6.0/Agent.AssemblyInfo.cs
+/home/david/Desktop/YakuzaC2/Agent/obj/Debug/net6.0/Agent.csproj.CoreCompileInputs.cache
+/home/david/Desktop/YakuzaC2/Agent/obj/Debug/net6.0/Agent.dll
+/home/david/Desktop/YakuzaC2/Agent/obj/Debug/net6.0/refint/Agent.dll
+/home/david/Desktop/YakuzaC2/Agent/obj/Debug/net6.0/Agent.pdb
+/home/david/Desktop/YakuzaC2/Agent/obj/Debug/net6.0/Agent.genruntimeconfig.cache
+/home/david/Desktop/YakuzaC2/Agent/obj/Debug/net6.0/ref/Agent.dll

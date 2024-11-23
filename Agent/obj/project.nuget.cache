@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "2i10rhhmWnmFvEAuwg9RiecJAqSRHyPO9TR+OBVcKfh5H1JbuMz88uJzk9551YDunDM28MshIzA73PNMTursDg==",
+  "success": true,
+  "projectFilePath": "/home/david/Desktop/YakuzaC2/Agent/Agent.csproj",
+  "expectedPackageFiles": [
+    "/home/david/.nuget/packages/microsoft.netcore.app.ref/6.0.8/microsoft.netcore.app.ref.6.0.8.nupkg.sha512",
+    "/home/david/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.8/microsoft.aspnetcore.app.ref.6.0.8.nupkg.sha512",
+    "/home/david/.nuget/packages/microsoft.netcore.app.host.linux-x64/6.0.8/microsoft.netcore.app.host.linux-x64.6.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}

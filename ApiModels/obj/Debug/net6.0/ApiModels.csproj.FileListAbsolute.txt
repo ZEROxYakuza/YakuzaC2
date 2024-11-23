@@ -1,0 +1,12 @@
+/home/david/Desktop/YakuzaC2/ApiModels/bin/Debug/net6.0/ApiModels.deps.json
+/home/david/Desktop/YakuzaC2/ApiModels/bin/Debug/net6.0/ApiModels.dll
+/home/david/Desktop/YakuzaC2/ApiModels/bin/Debug/net6.0/ApiModels.pdb
+/home/david/Desktop/YakuzaC2/ApiModels/obj/Debug/net6.0/ApiModels.csproj.AssemblyReference.cache
+/home/david/Desktop/YakuzaC2/ApiModels/obj/Debug/net6.0/ApiModels.GeneratedMSBuildEditorConfig.editorconfig
+/home/david/Desktop/YakuzaC2/ApiModels/obj/Debug/net6.0/ApiModels.AssemblyInfoInputs.cache
+/home/david/Desktop/YakuzaC2/ApiModels/obj/Debug/net6.0/ApiModels.AssemblyInfo.cs
+/home/david/Desktop/YakuzaC2/ApiModels/obj/Debug/net6.0/ApiModels.csproj.CoreCompileInputs.cache
+/home/david/Desktop/YakuzaC2/ApiModels/obj/Debug/net6.0/ApiModels.dll
+/home/david/Desktop/YakuzaC2/ApiModels/obj/Debug/net6.0/refint/ApiModels.dll
+/home/david/Desktop/YakuzaC2/ApiModels/obj/Debug/net6.0/ApiModels.pdb
+/home/david/Desktop/YakuzaC2/ApiModels/obj/Debug/net6.0/ref/ApiModels.dll

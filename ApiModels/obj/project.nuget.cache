@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "5NtupAMK+n1ADYhwsGvhH9YhKfx7Jz5wTtsIYK0lD5htk2RurKjYA9obO+8cgwvyW4L2RHBl3udke9kiK0KLfQ==",
+  "success": true,
+  "projectFilePath": "/home/david/Desktop/YakuzaC2/ApiModels/ApiModels.csproj",
+  "expectedPackageFiles": [
+    "/home/david/.nuget/packages/microsoft.netcore.app.ref/6.0.8/microsoft.netcore.app.ref.6.0.8.nupkg.sha512",
+    "/home/david/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.8/microsoft.aspnetcore.app.ref.6.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}
